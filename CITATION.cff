@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Trust or Refer: label-free risk control for 3D MRI segmentation at new hospitals (code)"
+version: 1.0.0
+date-released: 2026-11-20
+license: MIT
+authors:
+  - family-names: "Kazi Tani"
+    given-names: "Lamia Fatiha"
+    affiliation: "Biomedical Engineering Department, Abou Bekr Belkaid University, Tlemcen, Algeria"
+  - family-names: "Kazi Tani"
+    given-names: "Mohammed Yassine"
+    affiliation: "École Supérieure en Informatique, Sidi Bel Abbès, Algeria"
+  - family-names: "Hamza Cherif"
+    given-names: "Souaad"
+    affiliation: "Biomedical Engineering Department, Abou Bekr Belkaid University, Tlemcen, Algeria"
