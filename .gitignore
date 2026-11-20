@@ -1,0 +1,13 @@
+# never commit imaging data or per-patient M&Ms derivatives (data-use agreement)
+*.nii
+*.nii.gz
+mnms_npz/
+MnMs/
+runs*/
+summaries_mnms*.zip
+*.pt
+*.pth
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.log
